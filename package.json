@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@clerk/clerk-react": "^5.24.2",
+    "@radix-ui/react-dialog": "^1.1.6",
+    "axios": "^1.8.3",
+    "ui": "github:shadcn/ui"
+  }
+}
